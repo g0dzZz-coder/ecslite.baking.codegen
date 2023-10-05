@@ -1,0 +1,20 @@
+{
+    "name": "Leopotam.EcsLite.Baking.CodeGen.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:2175e455dfa41bc4bb295121967d04ee",
+        "GUID:95ee26562fad22d419f45f75163bd6a2",
+        "GUID:963afe0efcfed6446bf24b7d520f2f3f"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

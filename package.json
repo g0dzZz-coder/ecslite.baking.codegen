@@ -1,0 +1,27 @@
+{
+	"name": "com.depra.ecslite.baking.codegen",
+	"version": "0.0.1",
+	"displayName": "LeoECS Lite Baking CodeGen",
+	"description": "",
+	"unity": "2022.3",
+	"license": "Apache-2.0",
+	"keywords": [
+		"depra",
+		"ecs",
+		"bake",
+		"baking",
+		"conversion",
+		"code",
+		"codeGen",
+		"generation"
+	],
+	"author": {
+		"name": "godzZz",
+		"email": "n.melnikov@depra.org",
+		"url": "https://github.com/g0dzZz-coder"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/g0dzZz-coder/ecslite.baking.codegen.git"
+	}
+}
