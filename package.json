@@ -2,7 +2,7 @@
 	"name": "com.depra.ecslite.baking.codegen",
 	"version": "0.0.1",
 	"displayName": "LeoECS Lite Baking CodeGen",
-	"description": "",
+	"description": "LeoECS Lite extension for efficient Authoring Component code generation.",
 	"unity": "2022.3",
 	"license": "Apache-2.0",
 	"keywords": [
@@ -10,6 +10,7 @@
 		"ecs",
 		"bake",
 		"baking",
+		"authoring",
 		"conversion",
 		"code",
 		"codeGen",
